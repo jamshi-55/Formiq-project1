@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+
+@media screen and (max-width: 480px) {
+  .sidebar {
+    display: none; /* Hide sidebar on mobile */
+  }
+}

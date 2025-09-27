@@ -1,0 +1,346 @@
+{
+  "users": [
+    {
+      "id": "ana1",
+      "name": "Anas",
+      "email": "anas@gmail.com",
+      "password": "password123",
+      "role": "user",
+      "isBlocked": false
+    },
+    {
+      "id": "adm1",
+      "name": "Admin Jamshi",
+      "email": "admin@formiq.com",
+      "password": "adminq123",
+      "role": "admin",
+      "isBlocked": false
+    },
+    {
+      "id": "1748925930628",
+      "name": "saheer",
+      "email": "saheer11@gmail.com",
+      "password": "s123",
+      "role": "user",
+      "isBlocked": true
+    },
+    {
+      "id": "1748926256238",
+      "name": "jamshil",
+      "email": "jamshil@gmail.com",
+      "password": "j1234",
+      "role": "user",
+      "isBlocked": false
+    },
+    {
+      "id": "1750060269790",
+      "name": "dfg",
+      "email": "sdfgh@gmail.com",
+      "password": "12365",
+      "role": "user",
+      "isBlocked": false
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Men's Blue Dress Shirt - Style 1",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "shirt",
+      "price": "1998",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231012/cJFi/6528297eddf779151938200b/-473Wx593H-469514981-darkblue-MODEL.jpg",
+      "description": "A classic blue dress shirt perfect for formal occasions.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Men's Blue Dress Shirt - Style 2",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "shirt",
+      "price": 1999,
+      "image": "https://imagescdn.vanheusenindia.com/img/app/product/8/810228-9645850.jpg?auto=format&w=390",
+      "description": "A modern blue dress shirt with a slim fit design.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Men's Blue Dress Shirt - Style 3",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "shirt",
+      "price": 1999,
+      "image": "https://www.beyoung.in/api/cache/catalog/products/shirt_squre_image_update_14_3_2022/grey_cotton_solid_shirts_for_men_base_02_05_2024_700x933.jpg",
+      "description": "A comfortable blue dress shirt for all-day wear.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Men's Black Dress Pants - Classic",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "pant",
+      "price": 2499,
+      "image": "https://www.mytheresa.com/media/1094/1238/100/ba/P00985176.jpg",
+      "description": "Elegant black dress pants for formal settings.",
+      "sizes": [
+        "32",
+        "40",
+        "46",
+        "52",
+        "60"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Men's Black Dress Pants - Slim",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "pant",
+      "price": 2499,
+      "image": "https://www.mytheresa.com/media/1094/1238/100/37/P01009747_b1.jpg",
+      "description": "Slim-fit black dress pants for a modern look.",
+      "sizes": [
+        "32",
+        "40",
+        "46",
+        "52",
+        "60"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Men's Black Dress Pants - Regular",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "pant",
+      "price": 2499,
+      "image": "https://www.mytheresa.com/media/1094/1238/100/24/P01011249.jpg",
+      "description": "Comfortable black dress pants with a regular fit.",
+      "sizes": [
+        "32",
+        "40",
+        "46",
+        "52",
+        "60"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Men's Navy Suit - Modern",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "suit",
+      "price": 3599,
+      "image": "https://imagescdn.peterengland.com/img/app/product/9/937829-11975818.jpg?auto=format&w=390",
+      "description": "A sleek navy suit with contemporary styling.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Men's Navy Suit - Tailored",
+      "quantity": "10",
+      "category": "men",
+      "subcategory": "suit",
+      "price": 3599,
+      "image": "https://d1fufvy4xao6k9.cloudfront.net/images/blog/posts/2022/11/278a6678v2.jpg",
+      "description": "A tailored navy suit for a sharp appearance.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Women's Formal Shirt - Blue",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "shirt",
+      "price": 1699,
+      "image": "https://www.hancockfashion.com/cdn/shop/products/13060Tblue.jpg?v=1734413546",
+      "description": "A professional blue formal shirt for women.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Women's Formal Shirt - White",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "shirt",
+      "price": 1699,
+      "image": "https://www.hancockfashion.com/cdn/shop/files/13100WhiteBlueS_1.jpg?v=1734412778",
+      "description": "A crisp white formal shirt for office wear.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Women's Black Trousers - Classic",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "pant",
+      "price": 1699,
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/c/2c5de01VWTFFRGF890313_1.jpg?rnd=20200526195200&tr=w-512",
+      "description": "Classic black trousers for a polished look.",
+      "sizes": [
+        "32",
+        "40",
+        "46",
+        "52",
+        "60"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Women's Black Trousers - Slim",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "pant",
+      "price": 2299,
+      "image": "https://imagescdn.allensolly.com/img/app/product/3/39724876-15036904.jpg?auto=format&w=390",
+      "description": "Slim-fit black trousers for modern style.",
+      "sizes": [
+        "32",
+        "40",
+        "46",
+        "52",
+        "60"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Women's Black Trousers - Tailored",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "pant",
+      "price": 2299,
+      "image": "https://www.powersutra.co/cdn/shop/files/1726566571700_2048x.jpg?v=1726566644",
+      "description": "Tailored black trousers for professional wear.",
+      "sizes": [
+        "32",
+        "40",
+        "46",
+        "52",
+        "60"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Women's Floral Dress - Summer",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "suit",
+      "price": 3599,
+      "image": "https://m.media-amazon.com/images/I/61+lLsJ589L._AC_SR175,263_QL70_.jpg",
+      "description": "A vibrant floral dress for summer outings.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Women's Formal Skirt Suit",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "suit",
+      "price": 3599,
+      "image": "https://image.made-in-china.com/2f0j00tqIcOGTRsboV/Women-Gender-Business-Product-Type-Formal-Clothes-for-Office-Tailor-Made-fashion-Women-Skirt-Suit-Lady-Formal-Suit.webp",
+      "description": "A formal skirt suit for office settings.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Women's Floral Dress - Elegant",
+      "quantity": "10",
+      "category": "women",
+      "subcategory": "suit",
+      "price": 3599,
+      "image": "https://dlanxa.com/cdn/shop/products/3H8A7943.jpg?v=1679398462",
+      "description": "An elegant floral dress for special occasions.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "6910",
+      "productId": "2",
+      "userId": "adm1",
+      "rating": 2,
+      "comment": "tnq you "
+    }
+  ],
+  "orders": [],
+  "wishlist": [],
+  "bag": [],
+  "payments": [
+    {
+      "id": "91a1",
+      "productId": "2",
+      "userEmail": "unni@gmail.com",
+      "quantity": 1,
+      "size": "S",
+      "totalPrice": 1999,
+      "address": {
+        "street": "perinthalmanna",
+        "city": "perinthalmanna",
+        "state": "kerala",
+        "zip": "675368",
+        "country": "India",
+        "mobile": "9961815097"
+      },
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "method": "UPI",
+        "app": "Paytm"
+      },
+      "orderDate": "2025-06-16T07:52:24.097Z",
+      "status": "pending",
+      "cancelReason": ""
+    }
+  ]
+}
